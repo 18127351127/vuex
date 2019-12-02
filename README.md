@@ -1,2 +1,2 @@
 # vuex
-vuex
+vuex demo
